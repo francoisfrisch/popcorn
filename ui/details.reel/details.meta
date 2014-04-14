@@ -14,7 +14,8 @@
     "prototype": "montage/core/meta/property-blueprint",
     "properties": {
       "name": "data",
-      "blueprint": {"@": "root"}
+      "blueprint": {"@": "root"},
+      "valueType": "object"
     }
   },
   "root": {
